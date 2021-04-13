@@ -1,8 +1,7 @@
 from openpyxl import Workbook
 from openpyxl.styles import PatternFill
-
 from PIL import Image
-#from colors import rgb
+
 
 im=Image.open('Teste.jpg')
 pix=im.load()

@@ -35,6 +35,6 @@ for i in range(1,im.size[0]):
 planilha.sheet_view.zoomScale=25      
 print (str(im.size[0])+" x "+str(im.size[1]))
    
-
+#teste
 
 wb.save('Teste.xlsx')
